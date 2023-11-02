@@ -1,2 +1,2 @@
-My new task
-I just updated this directly from Github
+# alx-pre_course
+This repository contains alx introduction tasks
