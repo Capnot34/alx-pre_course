@@ -1,2 +1,2 @@
-M 01 Task
-I am trying to correct my work
+# Alx-pre_course
+This repository contains introduction to alx software engineering programme projects
